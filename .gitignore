@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Arquivos compilados de C
+*.exe
+*.out
+
+# Pastas de saída/execução
+output/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
